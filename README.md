@@ -1,6 +1,6 @@
 This is a beginner tutorial of Travis CI for Node projects.
 
-## How to use
+## How to use --test
 
 **Step 1**
 
